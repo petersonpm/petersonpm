@@ -65,12 +65,13 @@ Me chamo Peterson, tenho 31 anos e sou de Manaus - AM. Concluí o ensino médio 
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="Flutter"
+    title="Flutter" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
 />
+
 <img 
     align="left" 
     alt="React"
