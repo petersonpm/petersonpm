@@ -1,8 +1,9 @@
-## Peterson
+## Peterson Ferreira
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor`**
 
-Me chamo Peterson, tenho 31 anos e sou de Manaus - AM. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Peterson, tenho 31 anos e sou natural de Manaus - AM. Concluí minha graduação em Desenvolvimento de Sistemas pela Uniasselvi.
+Atualmente, trabalho no SENAI de Jaraguá do Sul, em Santa Catarina, onde atuo com turmas de Aprendizagem Industrial nos cursos de Desenvolvimento de Sistemas. Atendo alunos vinculados a empresas como WEG, Grupo Malwee, Duas Rodas, entre outras importantes organizações da região de Jaraguá do Sul.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
