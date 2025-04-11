@@ -4,7 +4,7 @@
 
 Me chamo Peterson, tenho 31 anos e sou natural de Manaus - AM. Concluí minha graduação em Desenvolvimento de Sistemas pela Uniasselvi.
 Atualmente, trabalho no SENAI de Jaraguá do Sul, em Santa Catarina, onde atuo com turmas de Aprendizagem Industrial nos cursos de Desenvolvimento de Sistemas. Atendo alunos vinculados a empresas como WEG, Grupo Malwee, Duas Rodas, entre outras importantes organizações da região de Jaraguá do Sul.
-
+<!--
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
@@ -36,7 +36,7 @@ Atualmente, trabalho no SENAI de Jaraguá do Sul, em Santa Catarina, onde atuo c
     </a>
 </p>
 
----
+-->
 
 ### 🤖 Linguagens e Tecnologias
 
