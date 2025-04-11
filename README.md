@@ -104,6 +104,7 @@ Atualmente, trabalho no SENAI de Jaraguá do Sul, em Santa Catarina, onde atuo c
 <br/>
 <br/>
 
+<!--
 ### 📊 Estatísticas
 
 <p>
@@ -123,3 +124,4 @@ Atualmente, trabalho no SENAI de Jaraguá do Sul, em Santa Catarina, onde atuo c
   />
 
 </p>
+-->
